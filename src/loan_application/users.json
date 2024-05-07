@@ -1,0 +1,67 @@
+{
+    "admin": {
+        "current_month": 2,
+        "name": "admin",
+        "payments": [
+            [
+                1,
+                7710.0
+            ],
+            [
+                2,
+                3080.0
+            ]
+        ],
+        "type": "admin"
+    },
+    "ofure": {
+        "balance": 7612.5,
+        "compound": "compound",
+        "current_month": 2,
+        "loan": 7000.0,
+        "name": "ofure",
+        "payments": [
+            [
+                1,
+                100.0,
+                7612.5
+            ]
+        ],
+        "rate": 0.05,
+        "start_month": "january",
+        "type": "user"
+    },
+    "omiko": {
+        "balance": 5300.0,
+        "compound": "simple",
+        "current_month": 2,
+        "loan": 5000.0,
+        "name": "omiko",
+        "payments": [],
+        "rate": 0.03,
+        "start_month": "june",
+        "type": "user"
+    },
+    "tanyalouise": {
+        "balance": 4240.0,
+        "compound": "simple",
+        "current_month": 2,
+        "loan": 4000.0,
+        "name": "tanyalouise",
+        "payments": [],
+        "rate": 0.03,
+        "start_month": "january",
+        "type": "user"
+    },
+    "teniola": {
+        "balance": 576.0,
+        "compound": "compound",
+        "current_month": 2,
+        "loan": 400.0,
+        "name": "teniola",
+        "payments": [],
+        "rate": 0.2,
+        "start_month": "march",
+        "type": "user"
+    }
+}
